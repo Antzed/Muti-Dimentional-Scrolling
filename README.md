@@ -18,7 +18,7 @@ Both picture shown above are examples of linear scrolling. You go from one view 
 
 ![How to split your screen in Windows 10 | TechRadar](https://cdn.mos.cms.futurecdn.net/tGgicD7LJbwmXq8UDn5XQf-1200-80.png)
 
-But the problem with this solution is that since each individual panel is designed with linear/sequential scrolling in mine, the user will eventually lay their eyes on one and only panel, and still browse these panel in a sequential order.
+But the problem with this solution is that since each individual panel is designed with linear/sequential scrolling in mind, the user will eventually lay their eyes on one and only one panel, and still browse these panels in a sequential order.
 
 Some note taking app, like Obsidian, attempted to use a network type navigation method, which utilizes wiki links. 
 
@@ -28,11 +28,11 @@ Their method have some resemblance of multidimensional navigation, but unfortuna
 
 ## So..
 
-Perhaps, even if there is a true multidimensional  navigation method, it will be limited by human's habit of viewing things sequentially. Hence, I believe instead of finding the "true way", we invent a method is the infinitely close to the true mutidimensionality. We make sequential navigation so effortless, while creating links between all 'web pages', so that a illusion of multidimensional navigation will be constructed. And since we only need to achieve a sense of mutidimensionality for humans to utilized it as a tool for creative thinking, we've achieved our goal
+Perhaps, even if there is a true multidimensional navigation method, it will be limited by human's habit of viewing things sequentially. Hence, I believe instead of finding the "true way", we invent a method is the infinitely close to the true mutidimensionality. We make sequential navigation so effortless, while creating links between all 'web pages', so that a illusion of multidimensional navigation will be constructed. And since we only need to achieve a sense of mutidimensionality for humans to utilized it as a tool for creative thinking, we've achieved our goal
 
 ## possible solutions
 
-one such solution I can think of, is that we scroll in a 3D space. This idea is inspired by the game 5d chess and it look sort of like this
+one such solution I can think of, is to scroll in a 3D space. This idea is inspired by the game 5d chess and it look sort of like this
 
 ![What on Earth is 5D chess? | ChessBase](https://en.chessbase.com/portals/all/2020/07/5d%20chess/screenshot_2020_06_20_16_43_53.png)
 
